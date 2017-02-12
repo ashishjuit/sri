@@ -1,5 +1,5 @@
 ====================
-The Cyborg Institute
+Shri Ramjidas Institute
 ====================
 
 Welcome to the Cyborg Institute! The "Institute," somewhat in-jest, has
