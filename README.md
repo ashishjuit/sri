@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+====================
+The Cyborg Institute
+====================
 
-You can use the [editor on GitHub](https://github.com/ashishjuit/sri.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Cyborg Institute! The "Institute," somewhat in-jest, has
+been an attempt at building an *ad hoc* virtual think tank in the
+tradition of :term:`free software`. The Cyborg Institute has always
+addressed issues at the intersection of technology, society/culture,
+and the individual user.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, the Institute operates as a publishing/hosting umbrella and
+as a home for several projects and tools. For more extensive
+information about the current projects, their state, and their goals
+see the ":doc:`projects`" page. To join an existing Institute project
+or contribute to an existing project, see the ":doc:`meta`" page. And
+always feel free to be in :doc:`contact <contact>`."
 
-### Markdown
+Projects
+--------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Book:
 
-```markdown
-Syntax highlighted code block
+- :project:`Systems Administration for Cyborgs <administration>` (a book-like-object.)
 
-# Header 1
-## Header 2
-### Header 3
+Active and In Development:
 
-- Bulleted
-- List
+- :project:`buildcloth <buildcloth>` (a makefile generator tool.)
+- :project:`dtf <dtf>` (a generic documentation testing framework.)
+- :doc:`csc </projects/csc>` (an incremental static site compiler.)
 
-1. Numbered
-2. List
+Legacy:
 
-**Bold** and _Italic_ and `Code` text
+- :doc:`taskn </projects/taskn>` a note tracking utility for use with TaskWarrior.
+- :project:`Personal Stats Logger (stl) <stl>` (a script.)
+- :project:`Taskfile <taskfile>` (a task list compiler.)
+- :project:`tychoish's desktop configuration stack <stack>` (a
+  collection of Emacs, StumpWM, and related configuration files.)
 
-[Link](url) and ![Image](src)
-```
+See ":doc:`projects`" for more information.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Resources
+---------
 
-### Jekyll Themes
+- `git.cyborginstitute.net <http://git.cyborginstitute.net/>`_:
+  Provides :term:`git` hosting and mirrors to institute projects and
+  related efforts.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashishjuit/sri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- `lists.cyborginstitute.net <http://lists.cyborginstitute.net/>`_:
+  E-mail listservs for Institute use and projects.
 
-### Support or Contact
+- `issues.cyborginstitute.net <http://issues.cyborginstitute.net/>`_:
+  Provides issue tracking references and links for Institute projects.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Related Projects
+----------------
+
+- `tychoish.com wiki <http://tychoish.com>`_: Wiki/blog space for
+  Institute related projects.
+
+- `Outer Alliance Wiki <http://oa.criticalfutures.com/>`_: The wiki of
+  `the Outer Alliance <http://outeralliance.org>`_.
+
+Pages
+-----
+
+.. toctree::
+
+   meta
+   projects
+   in-progress
+   contact
+   license
+
+.. toctree::
+   :hidden:
+
+   projects/rstcloth
+   projects/taskn
+   projects/csc
+   ref
