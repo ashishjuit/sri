@@ -1,8 +1,8 @@
 ====================
-Shri Ramjidas Institute
+
 ====================
 
-Welcome to the Cyborg Institute! The "Institute," somewhat in-jest, has
+Welcome to the XXX Institute! The "Institute," somewhat in-jest, has
 been an attempt at building an *ad hoc* virtual think tank in the
 tradition of :term:`free software`. The Cyborg Institute has always
 addressed issues at the intersection of technology, society/culture,
